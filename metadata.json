@@ -1,0 +1,7 @@
+{
+  "name": "NÉO v2.6 - Suivi Scolaire",
+  "description": "Une application mobile complète pour la gestion scolaire (Lycée) intégrant les rôles Directeur, CPE, Enseignants, Parents et Élèves avec suivi des notes, absences et finances.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
